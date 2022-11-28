@@ -41,9 +41,6 @@ Target Lab, Mclean, VA							                       Aug. 2016 to Jul.2019
 •	Performed UAT efforts with the client and managed UAT test case preparation, execution, defect entry and tracking. 
 
 
-Page 2- Cindy Yu
-
-
 
 QA/Business Analyst 
 Airschott– Sterling    								                   June 2014– Sept. 2016
